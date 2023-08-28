@@ -1,6 +1,6 @@
 # Fundamentals of Programming Laboratory - C Programs
 
-This repository contains a collection of C programs completed as part of the first-year of my undergrad.
+This repository contains a collection of C programs completed as part of the Fundamentals of Programming Laboratory course during the first-year of my undergrad.
 
 ## Programs List
 
