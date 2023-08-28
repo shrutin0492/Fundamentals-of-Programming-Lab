@@ -92,3 +92,40 @@ This repository contains a collection of C programs completed as part of the Fun
     - File: [20_student details_array of structures.c](20_student%20details_array%20of%20structures.c)
     - Program to store and display student details using an array of structures.
 
+
+
+## Instructions to Run the Programs
+
+### Running on Ubuntu (Using GCC)
+
+1. Open a terminal on your Ubuntu system.
+
+2. Ensure that you have the GCC compiler installed. If not, you can install it using the following command:
+   ```
+   sudo apt-get install gcc
+   ```
+
+3. Navigate to the directory containing the C program file using the `cd` command.
+
+4. Compile the program using GCC. For example, to compile `1._swap.c`, use:
+   ```
+   gcc 1._swap.c -o swap
+   ```
+
+5. Run the compiled program using:
+   ```
+   ./swap
+   ```
+   Replace `swap` with the appropriate compiled program name.
+
+### Running on Online Compilers
+
+You can also run these programs on various online C compilers. Here are the steps:
+
+1. Copy the code from the respective C program file.
+
+2. Visit an online C compiler such as [OnlineGDB](https://www.onlinegdb.com/online_c_compiler), [Ideone](https://ideone.com/), or [Replit](https://replit.com/~).
+
+3. Paste the copied code into the online compiler's code editor.
+
+4. Click on the "Run" or "Execute" button provided by the online compiler.
