@@ -124,7 +124,7 @@ You can also run these programs on various online C compilers. Here are the step
 
 1. Copy the code from the respective C program file.
 
-2. Visit an online C compiler such as [OnlineGDB](https://www.onlinegdb.com/online_c_compiler), [Ideone](https://ideone.com/), or [Replit](https://replit.com/~).
+2. Visit an online C compiler such as [OnlineGDB](https://www.onlinegdb.com/online_c_compiler), [Ideone](https://ideone.com/), [Programiz](https://www.programiz.com/c-programming/online-compiler/), etc.
 
 3. Paste the copied code into the online compiler's code editor.
 
